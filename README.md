@@ -7,6 +7,6 @@ I conducted a simple investigation of the problem and implemented six different 
 
 
 ## References
-[1] https://www.sciencedirect.com/science/article/abs/pii/S016792361400061X
-[2] https://core.ac.uk/download/pdf/55616194.pd
+[1] https://www.sciencedirect.com/science/article/abs/pii/S016792361400061X <br>
+[2] https://core.ac.uk/download/pdf/55616194.pd <br>
 [3] https://www.kaggle.com/c/launchds-classification
